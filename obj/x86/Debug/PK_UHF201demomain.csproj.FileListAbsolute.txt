@@ -1,0 +1,35 @@
+D:\Temp\201\201\PK-UHF201-設定軟體\PK-UHF201-設定軟體\Demo\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\201\201\PK-UHF201-設定軟體\PK-UHF201-設定軟體\Demo\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.Form1.resources
+D:\Temp\201\201\PK-UHF201-設定軟體\PK-UHF201-設定軟體\Demo\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.Properties.Resources.resources
+D:\Temp\Csharp V2.3\PK-UHF201demomain\bin\x86\Debug\PK_UHF201demomain.exe
+D:\Temp\Csharp V2.3\PK-UHF201demomain\bin\x86\Debug\PK_UHF201demomain.pdb
+D:\Temp\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.Form1.resources
+D:\Temp\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.Properties.Resources.resources
+D:\Temp\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\ResGen.read.1.tlog
+D:\Temp\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\ResGen.write.1.tlog
+D:\Temp\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.exe
+D:\Temp\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.pdb
+D:\Visual Studio 2010 Project\201\201\PK-UHF201\PK-UHF201\Demo\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.exe
+D:\Visual Studio 2010 Project\201\201\PK-UHF201\PK-UHF201\Demo\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.pdb
+D:\Visual Studio 2010 Project\201\201\PK-UHF201\PK-UHF201\Demo\Csharp V2.3\PK-UHF201demomain\bin\x86\Debug\PK_UHF201demomain.exe
+D:\Visual Studio 2010 Project\201\201\PK-UHF201\PK-UHF201\Demo\Csharp V2.3\PK-UHF201demomain\bin\x86\Debug\PK_UHF201demomain.pdb
+D:\Visual Studio 2010 Project\201\201\PK-UHF201\PK-UHF201\Demo\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010 Project\201\201\PK-UHF201\PK-UHF201\Demo\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.Form1.resources
+D:\Visual Studio 2010 Project\201\201\PK-UHF201\PK-UHF201\Demo\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.Properties.Resources.resources
+D:\Visual Studio 2010 Project\201\201\PK-UHF201\PK-UHF201\Demo\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\ResGen.read.1.tlog
+D:\Visual Studio 2010 Project\201\201\PK-UHF201\PK-UHF201\Demo\Csharp V2.3\PK-UHF201demomain\obj\x86\Debug\ResGen.write.1.tlog
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.exe
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.pdb
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\bin\x86\Debug\PK_UHF201demomain.exe.config
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\bin\x86\Debug\PK_UHF201demomain.exe
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\bin\x86\Debug\PK_UHF201demomain.pdb
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\bin\x86\Debug\PKUHFReader.dll
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\bin\x86\Debug\PKUHFReader.pdb
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.Form1.resources
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\obj\x86\Debug\PK_UHF201demomain.Properties.Resources.resources
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\obj\x86\Debug\ResGen.read.1.tlog
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio 2010 Project\PKUHF201-Demo\PK-UHF201demomain\C#\PK-UHF201demomain\obj\x86\Debug\ResGen.write.1.tlog

@@ -1,0 +1,12 @@
+D:\Temp\PK-UHF201demomain\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\PK-UHF201demomain\obj\Debug\PK_UHF201demomain.Form1.resources
+D:\Temp\PK-UHF201demomain\obj\Debug\PK_UHF201demomain.Properties.Resources.resources
+D:\Temp\PK-UHF201demomain\obj\Debug\ResGen.read.1.tlog
+D:\Temp\PK-UHF201demomain\obj\Debug\ResGen.write.1.tlog
+D:\Temp\PK-UHF201demomain\bin\Debug\PK_UHF201demomain.exe
+D:\Temp\PK-UHF201demomain\bin\Debug\PK_UHF201demomain.pdb
+D:\Temp\PK-UHF201demomain\bin\Debug\ZK_RFID102CSharp.dll
+D:\Temp\PK-UHF201demomain\obj\Debug\PK_UHF201demomain.exe
+D:\Temp\PK-UHF201demomain\obj\Debug\PK_UHF201demomain.pdb
+D:\Temp\Csharp V2.3\PK-UHF201demomain\obj\Debug\PK_UHF201demomain.exe
+D:\Temp\Csharp V2.3\PK-UHF201demomain\obj\Debug\PK_UHF201demomain.pdb
